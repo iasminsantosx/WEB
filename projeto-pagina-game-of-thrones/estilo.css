@@ -1,0 +1,51 @@
+body{
+	background: black url('imagens/fundo1.jpg');
+	font:16px  Arial, helvetica, sans-serif ;
+
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background:	#1C1C1C;
+	padding: 18px;
+	font-family: "Stencil Std", fantasy;
+	font-weight: :60px;
+}
+
+#conteudo{
+	background:gray;
+	padding: 10px;
+	display: table;
+
+}
+
+.imagem{
+	display: table-cell;
+	float: left;
+}
+
+.texto{
+	display: table-cell;
+	float: right;
+	width: 640px;
+	padding: 20px;
+	text-align: left;
+}
+
+a{
+	color: 	#A9A9A9;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 10px;
+	font:60px;
+}
+
+h1{
+	color:#1C1C1C;
+	font-size: 1.2em;
+
+}
+
